@@ -1,0 +1,621 @@
+[
+  {
+    "id": "2119902109709537708",
+    "url": "https://x.com/rileybrown/status/2119902109709537708",
+    "maker": "rileybrown",
+    "category": "scene3d",
+    "seconds": 59,
+    "postedAt": "2026-11-09",
+    "title": "A desk scene in Blender: 13 camera shots, dusk to sunrise",
+    "titleZh": "Blender 书桌场景：13 个镜头，从黄昏到日出",
+    "tools": [
+      "Blender",
+      "RunPod",
+      "ElevenLabs"
+    ]
+  },
+  {
+    "id": "2119878412181676283",
+    "url": "https://x.com/mathiaschpl/status/2119878412181676283",
+    "maker": "mathiaschpl",
+    "category": "motion",
+    "seconds": 37,
+    "postedAt": "2026-11-09",
+    "title": "A motion piece made in 10 minutes",
+    "titleZh": "10 分钟做出的一段动效",
+    "tools": []
+  },
+  {
+    "id": "2119876626179870838",
+    "url": "https://x.com/alexmichael/status/2119876626179870838",
+    "maker": "alexmichael",
+    "category": "scene3d",
+    "seconds": 18,
+    "postedAt": "2026-11-09",
+    "title": "A video made from scratch with Python controlling Blender",
+    "titleZh": "用 Python 控制 Blender 从零做出的视频",
+    "tools": [
+      "Python",
+      "Blender"
+    ]
+  },
+  {
+    "id": "2119880654858977333",
+    "url": "https://x.com/LexnLin/status/2119880654858977333",
+    "maker": "LexnLin",
+    "category": "scene3d",
+    "seconds": 30,
+    "postedAt": "2026-11-09",
+    "title": "Made in about 30 minutes, with a few Opus 5.5 subagents",
+    "titleZh": "约 30 分钟完成，用了几个 Opus 5.5 子智能体",
+    "tools": []
+  },
+  {
+    "id": "2119907318729245180",
+    "url": "https://x.com/EnvolDev/status/2119907318729245180",
+    "maker": "EnvolDev",
+    "category": "compare",
+    "seconds": 25,
+    "postedAt": "2026-11-09",
+    "title": "Cathedral of Ice: Fable 5.2 vs Opus 5.5",
+    "titleZh": "冰之大教堂：Fable 5.2 对比 Opus 5.5",
+    "tools": []
+  },
+  {
+    "id": "2119892540950241283",
+    "url": "https://x.com/devteamdrew/status/2119892540950241283",
+    "maker": "devteamdrew",
+    "category": "film",
+    "seconds": 32,
+    "postedAt": "2026-11-09",
+    "title": "A 32-second film, posted without a description",
+    "titleZh": "一段 32 秒的短片，发布时未附说明",
+    "tools": []
+  },
+  {
+    "id": "2119898145777983634",
+    "url": "https://x.com/developedbyed/status/2119898145777983634",
+    "maker": "developedbyed",
+    "category": "compare",
+    "seconds": 12,
+    "postedAt": "2026-11-09",
+    "title": "Same scene side by side: Opus 5.5 vs Fable 5.2",
+    "titleZh": "同场景对比：Opus 5.5 与 Fable 5.2",
+    "tools": []
+  },
+  {
+    "id": "2119893970897490135",
+    "url": "https://x.com/higgsfield_ai/status/2119893970897490135",
+    "maker": "higgsfield_ai",
+    "category": "scene3d",
+    "seconds": 19,
+    "postedAt": "2026-11-09",
+    "title": "A rigged zombie hand in Blender that crawls and backflips",
+    "titleZh": "Blender 中带骨骼绑定的僵尸手：爬行、后空翻",
+    "tools": [
+      "Blender",
+      "Higgsfield"
+    ]
+  },
+  {
+    "id": "2119902327423258787",
+    "url": "https://x.com/imjustnewatai/status/2119902327423258787",
+    "maker": "imjustnewatai",
+    "category": "music",
+    "seconds": 249,
+    "postedAt": "2026-11-09",
+    "title": "A symphony, written when asked for its best",
+    "titleZh": "一首交响曲，要求是写出它能写的最好作品",
+    "tools": []
+  },
+  {
+    "id": "2119902325460590834",
+    "url": "https://x.com/Khazix0918/status/2119902325460590834",
+    "maker": "Khazix0918",
+    "category": "motion",
+    "seconds": 58,
+    "postedAt": "2026-11-09",
+    "title": "A birthday video for ChatGPT's fourth anniversary",
+    "titleZh": "为 ChatGPT 四周年做的庆生视频",
+    "tools": []
+  },
+  {
+    "id": "2119938129079808282",
+    "url": "https://x.com/kevin_t_ngo/status/2119938129079808282",
+    "maker": "kevin_t_ngo",
+    "category": "film",
+    "seconds": 100,
+    "postedAt": "2026-11-09",
+    "title": "A film with every frame drawn in JavaScript",
+    "titleZh": "每一帧都用 JavaScript 绘制的短片",
+    "tools": [
+      "JavaScript"
+    ]
+  },
+  {
+    "id": "2119919644836347926",
+    "url": "https://x.com/imjustnewatai/status/2119919644836347926",
+    "maker": "imjustnewatai",
+    "category": "music",
+    "seconds": 171,
+    "postedAt": "2026-11-09",
+    "title": "A Beethoven-style piano sonata movement, scored in LilyPond",
+    "titleZh": "贝多芬风格的钢琴奏鸣曲乐章，用 LilyPond 写谱",
+    "tools": [
+      "LilyPond"
+    ]
+  },
+  {
+    "id": "2119933150025363661",
+    "url": "https://x.com/dom_scholz/status/2119933150025363661",
+    "maker": "dom_scholz",
+    "category": "compare",
+    "seconds": 30,
+    "postedAt": "2026-11-09",
+    "title": "Opus 5.5 vs Fable 5.2 on the same task",
+    "titleZh": "同一任务：Opus 5.5 对比 Fable 5.2",
+    "tools": []
+  },
+  {
+    "id": "2119900920347828670",
+    "url": "https://x.com/mattshumer_/status/2119900920347828670",
+    "maker": "mattshumer_",
+    "category": "film",
+    "seconds": 2929,
+    "postedAt": "2026-11-09",
+    "title": "A 49-minute movie made in code, with voices and graphics",
+    "titleZh": "49 分钟的电影，配音和画面全部由代码生成",
+    "tools": []
+  },
+  {
+    "id": "2119930300990177509",
+    "url": "https://x.com/deedydas/status/2119930300990177509",
+    "maker": "deedydas",
+    "category": "scene3d",
+    "seconds": 51,
+    "postedAt": "2026-11-09",
+    "title": "Photorealistic honey simulation in WebGL, in real time",
+    "titleZh": "WebGL 中的写实蜂蜜模拟，实时渲染",
+    "tools": [
+      "WebGL"
+    ],
+    "prompt": "Can you write the most intricate photorealistic simulation of honey in WebGL in the browser"
+  },
+  {
+    "id": "2119946022767980985",
+    "url": "https://x.com/rileybrown/status/2119946022767980985",
+    "maker": "rileybrown",
+    "category": "explainer",
+    "seconds": 96,
+    "postedAt": "2026-11-10",
+    "title": "The history of writing, from one prompt",
+    "titleZh": "文字书写的历史，一条提示词生成",
+    "tools": [],
+    "promptUrl": "https://v2.video/riley/the-history-of-writing/v1"
+  },
+  {
+    "id": "2119966147328299284",
+    "url": "https://x.com/xikhar/status/2119966147328299284",
+    "maker": "xikhar",
+    "category": "scene3d",
+    "seconds": 34,
+    "postedAt": "2026-11-10",
+    "title": "A Bugatti Tourbillon modeled and rendered in Blender",
+    "titleZh": "Blender 建模并渲染的布加迪 Tourbillon",
+    "tools": [
+      "Blender"
+    ]
+  },
+  {
+    "id": "2119902204320780676",
+    "url": "https://x.com/Bhavani_00007/status/2119902204320780676",
+    "maker": "Bhavani_00007",
+    "category": "compare",
+    "seconds": 25,
+    "postedAt": "2026-11-09",
+    "title": "Rocket launch scene: Fable 5.2 vs Opus 5.5",
+    "titleZh": "火箭发射场景：Fable 5.2 对比 Opus 5.5",
+    "tools": []
+  },
+  {
+    "id": "2119879667457073355",
+    "url": "https://x.com/Gregoirechp/status/2119879667457073355",
+    "maker": "Gregoirechp",
+    "category": "motion",
+    "seconds": 40,
+    "postedAt": "2026-11-09",
+    "title": "A motion design piece, made in a few minutes",
+    "titleZh": "几分钟做出的一段动效设计",
+    "tools": []
+  },
+  {
+    "id": "2119953913160093817",
+    "url": "https://x.com/WesRoth/status/2119953913160093817",
+    "maker": "WesRoth",
+    "category": "music",
+    "seconds": 147,
+    "postedAt": "2026-11-10",
+    "title": "Another video made in one shot",
+    "titleZh": "又一支一次生成的视频",
+    "tools": []
+  },
+  {
+    "id": "2119885430627913784",
+    "url": "https://x.com/other__reality/status/2119885430627913784",
+    "maker": "other__reality",
+    "category": "motion",
+    "seconds": 26,
+    "postedAt": "2026-11-09",
+    "title": "Clawd builds and releases a new Claude model",
+    "titleZh": "Clawd 打造并发布新 Claude 模型的动画",
+    "tools": [],
+    "prompt": "Create an animated video of clawd creating and releasing Claude Fable 5.2"
+  },
+  {
+    "id": "2119972124211454139",
+    "url": "https://x.com/kevin_t_ngo/status/2119972124211454139",
+    "maker": "kevin_t_ngo",
+    "category": "film",
+    "seconds": 65,
+    "postedAt": "2026-11-10",
+    "title": "A 90s-style toy commercial, animated in Python and Blender",
+    "titleZh": "90 年代风玩具广告：Python + Blender",
+    "tools": [
+      "Python",
+      "Blender"
+    ]
+  },
+  {
+    "id": "2119886262211625062",
+    "url": "https://x.com/dfeinition/status/2119886262211625062",
+    "maker": "dfeinition",
+    "category": "film",
+    "seconds": 19,
+    "postedAt": "2026-11-09",
+    "title": "Fabric folds with light, camera moves and sound, all in code",
+    "titleZh": "布料褶皱、透光、运镜与声音，全部由代码完成",
+    "tools": []
+  },
+  {
+    "id": "2119919466163093768",
+    "url": "https://x.com/Rasmic/status/2119919466163093768",
+    "maker": "Rasmic",
+    "category": "explainer",
+    "seconds": 248,
+    "postedAt": "2026-11-09",
+    "title": "A motion graphics explainer of Convex",
+    "titleZh": "讲解 Convex 的动态图形视频",
+    "tools": []
+  },
+  {
+    "id": "2119881243990859818",
+    "url": "https://x.com/dfeinition/status/2119881243990859818",
+    "maker": "dfeinition",
+    "category": "film",
+    "seconds": 31,
+    "postedAt": "2026-11-09",
+    "title": "Chalk art brought to life",
+    "titleZh": "动起来的粉笔画",
+    "tools": []
+  },
+  {
+    "id": "2119901747930186234",
+    "url": "https://x.com/pleometric/status/2119901747930186234",
+    "maker": "pleometric",
+    "category": "scene3d",
+    "seconds": 15,
+    "postedAt": "2026-11-09",
+    "title": "A 3D video test with the Bryce rendering engine",
+    "titleZh": "用 Bryce 渲染引擎做的 3D 视频测试",
+    "tools": [
+      "Bryce"
+    ]
+  },
+  {
+    "id": "2119910344998912507",
+    "url": "https://x.com/higgsfield_ai/status/2119910344998912507",
+    "maker": "higgsfield_ai",
+    "category": "scene3d",
+    "seconds": 24,
+    "postedAt": "2026-11-09",
+    "title": "Paris, 1940, in three.js from Higgsfield reference images",
+    "titleZh": "1940 年的巴黎，用 three.js 依参考图制作",
+    "tools": [
+      "three.js",
+      "Higgsfield"
+    ]
+  },
+  {
+    "id": "2119953172634677533",
+    "url": "https://x.com/MaxXWilliamson/status/2119953172634677533",
+    "maker": "MaxXWilliamson",
+    "category": "scene3d",
+    "seconds": 25,
+    "postedAt": "2026-11-10",
+    "title": "A Mediterranean-themed space habitat",
+    "titleZh": "地中海主题的太空栖居站",
+    "tools": []
+  },
+  {
+    "id": "2119911161386934330",
+    "url": "https://x.com/WesRoth/status/2119911161386934330",
+    "maker": "WesRoth",
+    "category": "music",
+    "seconds": 37,
+    "postedAt": "2026-11-09",
+    "title": "A music video with lyrics",
+    "titleZh": "一支带歌词的音乐视频",
+    "tools": []
+  },
+  {
+    "id": "2119919169768747313",
+    "url": "https://x.com/seiiiiiiiiiiru/status/2119919169768747313",
+    "maker": "seiiiiiiiiiiru",
+    "category": "scene3d",
+    "seconds": 20,
+    "postedAt": "2026-11-09",
+    "title": "A scene made by operating Blender",
+    "titleZh": "通过操作 Blender 做出的场景",
+    "tools": [
+      "Blender"
+    ]
+  },
+  {
+    "id": "2119943813028548721",
+    "url": "https://x.com/mgrczyk/status/2119943813028548721",
+    "maker": "mgrczyk",
+    "category": "film",
+    "seconds": 21,
+    "postedAt": "2026-11-10",
+    "title": "A bird at sunrise, painted stroke by stroke with no undo",
+    "titleZh": "一笔一笔画出日出时的鸟，无法撤销或修改",
+    "tools": []
+  },
+  {
+    "id": "2119955647542542439",
+    "url": "https://x.com/MrTacticalX/status/2119955647542542439",
+    "maker": "MrTacticalX",
+    "category": "compare",
+    "seconds": 30,
+    "postedAt": "2026-11-10",
+    "title": "Glass pool: Fable 5.2 vs Opus 5.5",
+    "titleZh": "玻璃泳池：Fable 5.2 对比 Opus 5.5",
+    "tools": []
+  },
+  {
+    "id": "2119879605607862329",
+    "url": "https://x.com/pleometric/status/2119879605607862329",
+    "maker": "pleometric",
+    "category": "compare",
+    "seconds": 50,
+    "postedAt": "2026-11-09",
+    "title": "Animation test: smoother than Opus, not a big jump",
+    "titleZh": "动画测试：比 Opus 更流畅，但提升不算大",
+    "tools": []
+  },
+  {
+    "id": "2119892208937517201",
+    "url": "https://x.com/dfeinition/status/2119892208937517201",
+    "maker": "dfeinition",
+    "category": "film",
+    "seconds": 20,
+    "postedAt": "2026-11-09",
+    "title": "A claymation-style short",
+    "titleZh": "一段黏土动画风格的短片",
+    "tools": []
+  },
+  {
+    "id": "2119928581405200726",
+    "url": "https://x.com/aziz4ai/status/2119928581405200726",
+    "maker": "aziz4ai",
+    "category": "motion",
+    "seconds": 15,
+    "postedAt": "2026-11-09",
+    "title": "A 15-second scene made only with code, no video model",
+    "titleZh": "只用代码做出的 15 秒场景，没有用视频模型",
+    "tools": []
+  },
+  {
+    "id": "2119947748690841841",
+    "url": "https://x.com/Angaisb_/status/2119947748690841841",
+    "maker": "Angaisb_",
+    "category": "scene3d",
+    "seconds": 15,
+    "postedAt": "2026-11-10",
+    "title": "A voxel lake",
+    "titleZh": "体素风格的湖",
+    "tools": []
+  },
+  {
+    "id": "2119868633086378471",
+    "url": "https://x.com/MatthewBerman/status/2119868633086378471",
+    "maker": "MatthewBerman",
+    "category": "explainer",
+    "seconds": 50,
+    "postedAt": "2026-11-09",
+    "title": "A motion graphic explaining how LLMs work",
+    "titleZh": "讲解 LLM 工作原理的动态图形",
+    "tools": []
+  },
+  {
+    "id": "2119947980400976267",
+    "url": "https://x.com/EHuanglu/status/2119947980400976267",
+    "maker": "EHuanglu",
+    "category": "film",
+    "seconds": 106,
+    "postedAt": "2026-11-10",
+    "title": "A script turned into a Disney-style animated film",
+    "titleZh": "把剧本变成迪士尼风格的动画片",
+    "tools": []
+  },
+  {
+    "id": "2119901782482543073",
+    "url": "https://x.com/0kncn/status/2119901782482543073",
+    "maker": "0kncn",
+    "category": "film",
+    "seconds": 90,
+    "postedAt": "2026-11-09",
+    "title": "Anime short: a steam locomotive that turns into a robot",
+    "titleZh": "90 秒动漫短片：变身机器人的蒸汽机车",
+    "tools": [
+      "Blender"
+    ],
+    "promptUrl": "https://x.com/0kncn/status/2119901786060259612"
+  },
+  {
+    "id": "2119890973560054072",
+    "url": "https://x.com/marcthecreatorr/status/2119890973560054072",
+    "maker": "marcthecreatorr",
+    "category": "scene3d",
+    "seconds": 53,
+    "postedAt": "2026-11-09",
+    "title": "A 3D sailing ship built in three.js, no external assets",
+    "titleZh": "用 three.js 做的 3D 帆船，没有外部素材",
+    "tools": [
+      "three.js",
+      "Claude Code"
+    ]
+  },
+  {
+    "id": "2119945841997672698",
+    "url": "https://x.com/kickingkeys/status/2119945841997672698",
+    "maker": "kickingkeys",
+    "category": "film",
+    "seconds": 23,
+    "postedAt": "2026-11-10",
+    "title": "A painting piece with video and audio made in code",
+    "titleZh": "一段绘画作品，画面和声音都由代码生成",
+    "tools": []
+  },
+  {
+    "id": "2119951060752375827",
+    "url": "https://x.com/vib3coded/status/2119951060752375827",
+    "maker": "vib3coded",
+    "category": "compare",
+    "seconds": 18,
+    "postedAt": "2026-11-10",
+    "title": "Jelly orca: Fable 5.2 vs Opus 5.5",
+    "titleZh": "果冻虎鲸：Fable 5.2 对比 Opus 5.5",
+    "tools": []
+  },
+  {
+    "id": "2119907675265987047",
+    "url": "https://x.com/higgsfield_ai/status/2119907675265987047",
+    "maker": "higgsfield_ai",
+    "category": "music",
+    "seconds": 50,
+    "postedAt": "2026-11-09",
+    "title": "Claude sings a sci-fi lo-fi track made from scratch",
+    "titleZh": "Claude 演唱一首从零做出的科幻 lo-fi 曲目",
+    "tools": [
+      "Higgsfield"
+    ]
+  },
+  {
+    "id": "2119941967136379334",
+    "url": "https://x.com/konstantinsaifo/status/2119941967136379334",
+    "maker": "konstantinsaifo",
+    "category": "explainer",
+    "seconds": 36,
+    "postedAt": "2026-11-09",
+    "title": "How a nuclear reactor works: a take-apart three.js model",
+    "titleZh": "核反应堆如何工作：可拆解的 three.js 模型",
+    "tools": [
+      "three.js"
+    ]
+  },
+  {
+    "id": "2119943368612487285",
+    "url": "https://x.com/Masimo_Blue/status/2119943368612487285",
+    "maker": "Masimo_Blue",
+    "category": "motion",
+    "seconds": 10,
+    "postedAt": "2026-11-10",
+    "title": "A 10-second promo for Claude pants, with acid techno music",
+    "titleZh": "10 秒 Claude 裤子宣传片，配酸性 Techno",
+    "tools": []
+  },
+  {
+    "id": "2119917375080521921",
+    "url": "https://x.com/sparklabhq/status/2119917375080521921",
+    "maker": "sparklabhq",
+    "category": "scene3d",
+    "seconds": 6,
+    "postedAt": "2026-11-09",
+    "title": "An animated Raspberry Pi 5",
+    "titleZh": "Raspberry Pi 5 的动画",
+    "tools": [],
+    "prompt": "animate a raspberry pi 5"
+  },
+  {
+    "id": "2119958719362666708",
+    "url": "https://x.com/loktar00/status/2119958719362666708",
+    "maker": "loktar00",
+    "category": "scene3d",
+    "seconds": 40,
+    "postedAt": "2026-11-10",
+    "title": "A Machu Picchu tiny world with volumetric fog and alpacas",
+    "titleZh": "马丘比丘微缩世界，有体积雾和小羊驼",
+    "tools": []
+  },
+  {
+    "id": "2119928576548237346",
+    "url": "https://x.com/leo114119/status/2119928576548237346",
+    "maker": "leo114119",
+    "category": "scene3d",
+    "seconds": 46,
+    "postedAt": "2026-11-09",
+    "title": "An anime-style 3D island with thousands of cycling pelicans",
+    "titleZh": "代码生成的动漫风 3D 岛屿，成千上万只鹈鹕在骑行",
+    "tools": []
+  },
+  {
+    "id": "2119936753892983162",
+    "url": "https://x.com/ivanfioravanti/status/2119936753892983162",
+    "maker": "ivanfioravanti",
+    "category": "scene3d",
+    "seconds": 10,
+    "postedAt": "2026-11-09",
+    "title": "Hangzhou West Lake, built with three.js",
+    "titleZh": "用 three.js 做的杭州西湖",
+    "tools": [
+      "three.js"
+    ]
+  },
+  {
+    "id": "2119932937642946900",
+    "url": "https://x.com/Hunter_Weiss/status/2119932937642946900",
+    "maker": "Hunter_Weiss",
+    "category": "motion",
+    "seconds": 118,
+    "postedAt": "2026-11-09",
+    "title": "Rocket science explained at high-school level, in one shot",
+    "titleZh": "一次生成：面向高中水平讲解火箭科学",
+    "tools": [],
+    "prompt": "I need you to create the most impressive video I can share with people about Fable 5.2, explaining rocket science as if it were for someone with a high school education."
+  },
+  {
+    "id": "2119964448077316238",
+    "url": "https://x.com/higgsfield_ai/status/2119964448077316238",
+    "maker": "higgsfield_ai",
+    "category": "film",
+    "seconds": 90,
+    "postedAt": "2026-11-10",
+    "title": "A 90-second 2.5D animated duel, made with Higgsfield MCP",
+    "titleZh": "2.5D 决斗动画，Higgsfield MCP 制作",
+    "tools": [
+      "Higgsfield"
+    ]
+  },
+  {
+    "id": "2119949557664735583",
+    "url": "https://x.com/MrTacticalX/status/2119949557664735583",
+    "maker": "MrTacticalX",
+    "category": "compare",
+    "seconds": 30,
+    "postedAt": "2026-11-10",
+    "title": "Snow globe: Fable 5.2 vs Opus 5.5",
+    "titleZh": "雪花玻璃球：Fable 5.2 对比 Opus 5.5",
+    "tools": []
+  }
+]
