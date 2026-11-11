@@ -180,7 +180,7 @@ Watch them all, with filters, at **[claude-motion.com/fable-5-2-videos](https://
 </tr>
 </table>
 
-## Fable 5.2 vs Opus 5.5
+## Model comparisons
 
 <table>
 <tr>

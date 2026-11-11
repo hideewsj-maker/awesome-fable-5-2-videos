@@ -180,7 +180,7 @@
 </tr>
 </table>
 
-## Fable 5.2 对比 Opus 5.5
+## 模型对比
 
 <table>
 <tr>
