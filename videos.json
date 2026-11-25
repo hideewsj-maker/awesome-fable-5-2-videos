@@ -103,6 +103,17 @@
     "tools": []
   },
   {
+    "id": "2120002682421182624",
+    "url": "https://x.com/gavinpurcell/status/2120002682421182624",
+    "maker": "gavinpurcell",
+    "category": "film",
+    "seconds": 116,
+    "postedAt": "2026-11-10",
+    "title": "A short film made freely from a code repo",
+    "titleZh": "拿到一个代码仓库后自由发挥做出的短片",
+    "tools": []
+  },
+  {
     "id": "2120010995309457643",
     "url": "https://x.com/anabology/status/2120010995309457643",
     "maker": "anabology",
@@ -122,17 +133,6 @@
     "postedAt": "2026-11-13",
     "title": "A figure that learns to run, rendered in vork",
     "titleZh": "一个学会奔跑的角色，用 vork 渲染",
-    "tools": []
-  },
-  {
-    "id": "2120002682421182624",
-    "url": "https://x.com/gavinpurcell/status/2120002682421182624",
-    "maker": "gavinpurcell",
-    "category": "film",
-    "seconds": 116,
-    "postedAt": "2026-11-10",
-    "title": "A short film made freely from a code repo",
-    "titleZh": "拿到一个代码仓库后自由发挥做出的短片",
     "tools": []
   },
   {
@@ -202,6 +202,17 @@
     "tools": []
   },
   {
+    "id": "2123980980994318416",
+    "url": "https://x.com/kevin_t_ngo/status/2123980980994318416",
+    "maker": "kevin_t_ngo",
+    "category": "music",
+    "seconds": 40,
+    "postedAt": "2026-11-21",
+    "title": "Fable 5.2 builds its own voice in plain Python",
+    "titleZh": "Fable 5.2 用纯 Python 给自己做出声音",
+    "tools": []
+  },
+  {
     "id": "2119878412181676283",
     "url": "https://x.com/mathiaschpl/status/2119878412181676283",
     "maker": "mathiaschpl",
@@ -232,6 +243,28 @@
     "postedAt": "2026-11-13",
     "title": "A Three.js scene with no external assets at all",
     "titleZh": "不用任何外部素材的 Three.js 场景",
+    "tools": []
+  },
+  {
+    "id": "2123139308932702468",
+    "url": "https://x.com/apekshik/status/2123139308932702468",
+    "maker": "apekshik",
+    "category": "scene3d",
+    "seconds": 110,
+    "postedAt": "2026-11-18",
+    "title": "AnyMachine: a helicopter, a lifeboat and walking robots modeled and rigged in Blender",
+    "titleZh": "AnyMachine：在 Blender 里建模并绑定直升机、救生艇和行走机器人",
+    "tools": []
+  },
+  {
+    "id": "2124153573718307003",
+    "url": "https://x.com/M__Houser/status/2124153573718307003",
+    "maker": "M__Houser",
+    "category": "scene3d",
+    "seconds": 90,
+    "postedAt": "2026-11-21",
+    "title": "Age of Dragon, a solo-built open-world fantasy game",
+    "titleZh": "《Age of Dragon》，一个人做的开放世界奇幻游戏",
     "tools": []
   },
   {
@@ -325,6 +358,17 @@
     "tools": []
   },
   {
+    "id": "2122682962647122403",
+    "url": "https://x.com/xikhar/status/2122682962647122403",
+    "maker": "xikhar",
+    "category": "scene3d",
+    "seconds": 54,
+    "postedAt": "2026-11-17",
+    "title": "Papertrails, an endless papercraft world that pops up in the browser",
+    "titleZh": "《Papertrails》：在浏览器中不断弹出的无尽纸艺世界",
+    "tools": []
+  },
+  {
     "id": "2119907318729245180",
     "url": "https://x.com/EnvolDev/status/2119907318729245180",
     "maker": "EnvolDev",
@@ -336,6 +380,17 @@
     "tools": []
   },
   {
+    "id": "2121642720045261185",
+    "url": "https://x.com/rileybrown/status/2121642720045261185",
+    "maker": "rileybrown",
+    "category": "film",
+    "seconds": 139,
+    "postedAt": "2026-11-14",
+    "title": "The Fable of Clawd, a 2-minute 4K Blender film for about $20",
+    "titleZh": "《The Fable of Clawd》：2 分钟 4K Blender 短片，花费约 20 美元",
+    "tools": []
+  },
+  {
     "id": "2120052388434473233",
     "url": "https://x.com/ryoma_nakajima/status/2120052388434473233",
     "maker": "ryoma_nakajima",
@@ -344,6 +399,17 @@
     "postedAt": "2026-11-10",
     "title": "A sheet of paper folding itself into origami",
     "titleZh": "一张纸自己折成折纸作品",
+    "tools": []
+  },
+  {
+    "id": "2125119969109418333",
+    "url": "https://x.com/kevin_t_ngo/status/2125119969109418333",
+    "maker": "kevin_t_ngo",
+    "category": "scene3d",
+    "seconds": 20,
+    "postedAt": "2026-11-24",
+    "title": "Cinderwatch, a tower defense game in a single HTML file",
+    "titleZh": "Cinderwatch，单个 HTML 文件里的塔防游戏",
     "tools": []
   },
   {
@@ -383,14 +449,25 @@
     ]
   },
   {
-    "id": "2122682962647122403",
-    "url": "https://x.com/xikhar/status/2122682962647122403",
-    "maker": "xikhar",
-    "category": "scene3d",
-    "seconds": 54,
-    "postedAt": "2026-11-17",
-    "title": "Papertrails, an endless papercraft world that pops up in the browser",
-    "titleZh": "《Papertrails》：在浏览器中不断弹出的无尽纸艺世界",
+    "id": "2124583559256313944",
+    "url": "https://x.com/DanielZambrini/status/2124583559256313944",
+    "maker": "DanielZambrini",
+    "category": "film",
+    "seconds": 30,
+    "postedAt": "2026-11-22",
+    "title": "The world through a hummingbird's eyes, 100% code in Blender",
+    "titleZh": "蜂鸟眼中的世界，Blender 里 100% 代码完成",
+    "tools": []
+  },
+  {
+    "id": "2123194632670748790",
+    "url": "https://x.com/kevin_t_ngo/status/2123194632670748790",
+    "maker": "kevin_t_ngo",
+    "category": "motion",
+    "seconds": 52,
+    "postedAt": "2026-11-18",
+    "title": "San Francisco, an animation drawn in code",
+    "titleZh": "旧金山，一段用代码画出的动画",
     "tools": []
   },
   {
@@ -427,17 +504,6 @@
     "tools": []
   },
   {
-    "id": "2121642720045261185",
-    "url": "https://x.com/rileybrown/status/2121642720045261185",
-    "maker": "rileybrown",
-    "category": "film",
-    "seconds": 139,
-    "postedAt": "2026-11-14",
-    "title": "The Fable of Clawd, a 2-minute 4K Blender film for about $20",
-    "titleZh": "《The Fable of Clawd》：2 分钟 4K Blender 短片，花费约 20 美元",
-    "tools": []
-  },
-  {
     "id": "2120255060957659498",
     "url": "https://x.com/Grummz/status/2120255060957659498",
     "maker": "Grummz",
@@ -468,6 +534,17 @@
     "postedAt": "2026-11-12",
     "title": "A million nanobots that morph into shapes, in Three.js",
     "titleZh": "一百万个纳米机器人变换成各种形状，Three.js 实现",
+    "tools": []
+  },
+  {
+    "id": "2122489950981779504",
+    "url": "https://x.com/fe_yukichi/status/2122489950981779504",
+    "maker": "fe_yukichi",
+    "category": "scene3d",
+    "seconds": 13,
+    "postedAt": "2026-11-17",
+    "title": "A listless bunny-eared character in Blender, about 8,000 triangles",
+    "titleZh": "Blender 中制作的慵懒兔耳角色，约 8000 个三角面",
     "tools": []
   },
   {
@@ -504,25 +581,14 @@
     "tools": []
   },
   {
-    "id": "2122489950981779504",
-    "url": "https://x.com/fe_yukichi/status/2122489950981779504",
-    "maker": "fe_yukichi",
+    "id": "2122866766590173419",
+    "url": "https://x.com/ChrisGPT/status/2122866766590173419",
+    "maker": "ChrisGPT",
     "category": "scene3d",
-    "seconds": 13,
-    "postedAt": "2026-11-17",
-    "title": "A listless bunny-eared character in Blender, about 8,000 triangles",
-    "titleZh": "Blender 中制作的慵懒兔耳角色，约 8000 个三角面",
-    "tools": []
-  },
-  {
-    "id": "2119955647542542439",
-    "url": "https://x.com/MrTacticalX/status/2119955647542542439",
-    "maker": "MrTacticalX",
-    "category": "compare",
-    "seconds": 30,
-    "postedAt": "2026-11-10",
-    "title": "Glass pool: Fable 5.2 vs Opus 5.5",
-    "titleZh": "玻璃泳池：Fable 5.2 对比 Opus 5.5",
+    "seconds": 88,
+    "postedAt": "2026-11-18",
+    "title": "An underwater survival game that starts on half a submarine",
+    "titleZh": "从半截潜艇上醒来的水下求生游戏",
     "tools": []
   },
   {
@@ -537,6 +603,28 @@
     "tools": []
   },
   {
+    "id": "2119955647542542439",
+    "url": "https://x.com/MrTacticalX/status/2119955647542542439",
+    "maker": "MrTacticalX",
+    "category": "compare",
+    "seconds": 30,
+    "postedAt": "2026-11-10",
+    "title": "Glass pool: Fable 5.2 vs Opus 5.5",
+    "titleZh": "玻璃泳池：Fable 5.2 对比 Opus 5.5",
+    "tools": []
+  },
+  {
+    "id": "2123360069513302141",
+    "url": "https://x.com/DanielZambrini/status/2123360069513302141",
+    "maker": "DanielZambrini",
+    "category": "film",
+    "seconds": 30,
+    "postedAt": "2026-11-19",
+    "title": "A day in the life of a squirrel, rendered by Python in Blender",
+    "titleZh": "一只松鼠的一天，用 Python 驱动 Blender 渲染",
+    "tools": []
+  },
+  {
     "id": "2120890033833922611",
     "url": "https://x.com/kinderlayer/status/2120890033833922611",
     "maker": "kinderlayer",
@@ -545,28 +633,6 @@
     "postedAt": "2026-11-12",
     "title": "Cobra bursting through a carpet: Fable 5.2 vs Gemini 4 Argon",
     "titleZh": "眼镜蛇破毯而出：Fable 5.2 对比 Gemini 4 Argon",
-    "tools": []
-  },
-  {
-    "id": "2120382619082727604",
-    "url": "https://x.com/DeryaTR_/status/2120382619082727604",
-    "maker": "DeryaTR_",
-    "category": "film",
-    "seconds": 520,
-    "postedAt": "2026-11-11",
-    "title": "The life of a T cell, an 8-minute narrated Blender film",
-    "titleZh": "T 细胞的一生：8 分钟带旁白的 Blender 影片",
-    "tools": []
-  },
-  {
-    "id": "2120486254852608470",
-    "url": "https://x.com/DaveJ/status/2120486254852608470",
-    "maker": "DaveJ",
-    "category": "motion",
-    "seconds": 25,
-    "postedAt": "2026-11-11",
-    "title": "Motion design that stays consistent with an existing design",
-    "titleZh": "与现有设计保持一致的动效设计",
     "tools": []
   },
   {
@@ -581,6 +647,17 @@
     "tools": []
   },
   {
+    "id": "2120382619082727604",
+    "url": "https://x.com/DeryaTR_/status/2120382619082727604",
+    "maker": "DeryaTR_",
+    "category": "film",
+    "seconds": 520,
+    "postedAt": "2026-11-11",
+    "title": "The life of a T cell, an 8-minute narrated Blender film",
+    "titleZh": "T 细胞的一生：8 分钟带旁白的 Blender 影片",
+    "tools": []
+  },
+  {
     "id": "2122472401124401585",
     "url": "https://x.com/vib3coded/status/2122472401124401585",
     "maker": "vib3coded",
@@ -589,6 +666,50 @@
     "postedAt": "2026-11-16",
     "title": "A pixel-art fighter jet game, made in 38 minutes for $22.78",
     "titleZh": "像素风战斗机游戏，耗时 38 分钟、花费 22.78 美元",
+    "tools": []
+  },
+  {
+    "id": "2120486254852608470",
+    "url": "https://x.com/DaveJ/status/2120486254852608470",
+    "maker": "DaveJ",
+    "category": "motion",
+    "seconds": 25,
+    "postedAt": "2026-11-11",
+    "title": "Motion design that stays consistent with an existing design",
+    "titleZh": "与现有设计保持一致的动效设计",
+    "tools": []
+  },
+  {
+    "id": "2125321244686029289",
+    "url": "https://x.com/kevin_t_ngo/status/2125321244686029289",
+    "maker": "kevin_t_ngo",
+    "category": "scene3d",
+    "seconds": 30,
+    "postedAt": "2026-11-24",
+    "title": "A procedural open-world RPG in one 300 kB HTML file, every pixel from shaders",
+    "titleZh": "程序化开放世界 RPG，装在一个 300 kB 的 HTML 里，每个像素都由着色器画出",
+    "tools": []
+  },
+  {
+    "id": "2124465319087308918",
+    "url": "https://x.com/kinderlayer/status/2124465319087308918",
+    "maker": "kinderlayer",
+    "category": "compare",
+    "seconds": 12,
+    "postedAt": "2026-11-22",
+    "title": "An engine in cross-section from one prompt: Fable 5.2 vs GPT-6.2 Astra vs Gemini 4 Neon vs Grok 4.7",
+    "titleZh": "同一提示的发动机剖面：Fable 5.2、GPT-6.2 Astra、Gemini 4 Neon、Grok 4.7 对比",
+    "tools": []
+  },
+  {
+    "id": "2122862040326807696",
+    "url": "https://x.com/dom_scholz/status/2122862040326807696",
+    "maker": "dom_scholz",
+    "category": "compare",
+    "seconds": 40,
+    "postedAt": "2026-11-18",
+    "title": "A seabed submarine in three.js: Fable 5.2 at 242 KB vs GPT-6.2 Astra at 32.9 MB",
+    "titleZh": "three.js 海底潜艇：Fable 5.2 仅 242 KB，GPT-6.2 Astra 达 32.9 MB",
     "tools": []
   },
   {
@@ -629,6 +750,17 @@
     ]
   },
   {
+    "id": "2123788440714260673",
+    "url": "https://x.com/Aprilzz423/status/2123788440714260673",
+    "maker": "Aprilzz423",
+    "category": "motion",
+    "seconds": 24,
+    "postedAt": "2026-11-20",
+    "title": "Pocket City, a free skill that turns any street corner into a tiny hand-drawn city",
+    "titleZh": "Pocket City：把任何街角变成手绘小城的免费 Skill",
+    "tools": []
+  },
+  {
     "id": "2120152637249315094",
     "url": "https://x.com/cube_224/status/2120152637249315094",
     "maker": "cube_224",
@@ -651,6 +783,17 @@
     "tools": []
   },
   {
+    "id": "2120417834694250522",
+    "url": "https://x.com/Xian0063/status/2120417834694250522",
+    "maker": "Xian0063",
+    "category": "scene3d",
+    "seconds": 40,
+    "postedAt": "2026-11-11",
+    "title": "A paper planner rebuilt as an interactive 3D planner",
+    "titleZh": "把实体手帐做成可交互的 3D 电子手帐",
+    "tools": []
+  },
+  {
     "id": "2119898145777983634",
     "url": "https://x.com/developedbyed/status/2119898145777983634",
     "maker": "developedbyed",
@@ -662,14 +805,14 @@
     "tools": []
   },
   {
-    "id": "2120417834694250522",
-    "url": "https://x.com/Xian0063/status/2120417834694250522",
-    "maker": "Xian0063",
+    "id": "2120694045299327187",
+    "url": "https://x.com/op7418/status/2120694045299327187",
+    "maker": "op7418",
     "category": "scene3d",
-    "seconds": 40,
-    "postedAt": "2026-11-11",
-    "title": "A paper planner rebuilt as an interactive 3D planner",
-    "titleZh": "把实体手帐做成可交互的 3D 电子手帐",
+    "seconds": 66,
+    "postedAt": "2026-11-12",
+    "title": "A 3D action game made in one afternoon, in a 30 MB HTML file",
+    "titleZh": "一个下午做出的 3D 动作游戏，装在 30MB 的 HTML 里",
     "tools": []
   },
   {
@@ -695,17 +838,6 @@
     "tools": []
   },
   {
-    "id": "2120694045299327187",
-    "url": "https://x.com/op7418/status/2120694045299327187",
-    "maker": "op7418",
-    "category": "scene3d",
-    "seconds": 66,
-    "postedAt": "2026-11-12",
-    "title": "A 3D action game made in one afternoon, in a 30 MB HTML file",
-    "titleZh": "一个下午做出的 3D 动作游戏，装在 30MB 的 HTML 里",
-    "tools": []
-  },
-  {
     "id": "2120212304809918827",
     "url": "https://x.com/parhelion318/status/2120212304809918827",
     "maker": "parhelion318",
@@ -719,17 +851,6 @@
     ]
   },
   {
-    "id": "2120695368874631226",
-    "url": "https://x.com/imjustnewatai/status/2120695368874631226",
-    "maker": "imjustnewatai",
-    "category": "explainer",
-    "seconds": 98,
-    "postedAt": "2026-11-12",
-    "title": "50 cars learning to drive without being told how",
-    "titleZh": "50 辆车在没人教的情况下自己学会驾驶",
-    "tools": []
-  },
-  {
     "id": "2120807580461306010",
     "url": "https://x.com/JungleSilicon/status/2120807580461306010",
     "maker": "JungleSilicon",
@@ -738,6 +859,17 @@
     "postedAt": "2026-11-12",
     "title": "Inkwell in 3D pixel art, rendered with Gaussian splats",
     "titleZh": "以高斯泼溅渲染成 3D 像素画的 Inkwell",
+    "tools": []
+  },
+  {
+    "id": "2120695368874631226",
+    "url": "https://x.com/imjustnewatai/status/2120695368874631226",
+    "maker": "imjustnewatai",
+    "category": "explainer",
+    "seconds": 98,
+    "postedAt": "2026-11-12",
+    "title": "50 cars learning to drive without being told how",
+    "titleZh": "50 辆车在没人教的情况下自己学会驾驶",
     "tools": []
   },
   {
@@ -774,14 +906,14 @@
     "tools": []
   },
   {
-    "id": "2120680918914601165",
-    "url": "https://x.com/calebfahlgren/status/2120680918914601165",
-    "maker": "calebfahlgren",
+    "id": "2121896633848017145",
+    "url": "https://x.com/MengTo/status/2121896633848017145",
+    "maker": "MengTo",
     "category": "scene3d",
-    "seconds": 44,
-    "postedAt": "2026-11-12",
-    "title": "A 3D house built from one prompt in a few hours",
-    "titleZh": "一条提示词、几小时做出的 3D 房屋",
+    "seconds": 99,
+    "postedAt": "2026-11-15",
+    "title": "A Dark Souls-inspired browser game, made in 3 days",
+    "titleZh": "3 天做出的《黑暗之魂》风格浏览器游戏",
     "tools": []
   },
   {
@@ -796,14 +928,25 @@
     "tools": []
   },
   {
-    "id": "2121896633848017145",
-    "url": "https://x.com/MengTo/status/2121896633848017145",
-    "maker": "MengTo",
+    "id": "2120680918914601165",
+    "url": "https://x.com/calebfahlgren/status/2120680918914601165",
+    "maker": "calebfahlgren",
     "category": "scene3d",
-    "seconds": 99,
-    "postedAt": "2026-11-15",
-    "title": "A Dark Souls-inspired browser game, made in 3 days",
-    "titleZh": "3 天做出的《黑暗之魂》风格浏览器游戏",
+    "seconds": 44,
+    "postedAt": "2026-11-12",
+    "title": "A 3D house built from one prompt in a few hours",
+    "titleZh": "一条提示词、几小时做出的 3D 房屋",
+    "tools": []
+  },
+  {
+    "id": "2122803967272866254",
+    "url": "https://x.com/EnvolDev/status/2122803967272866254",
+    "maker": "EnvolDev",
+    "category": "compare",
+    "seconds": 25,
+    "postedAt": "2026-11-17",
+    "title": "A plane from the Alpine Gold prompt: GPT-6.2 Astra vs GPT-6.2 Sol vs Fable 5.2 vs Opus 5.5",
+    "titleZh": "同一 Alpine Gold 提示的飞机：GPT-6.2 Astra、GPT-6.2 Sol、Fable 5.2 与 Opus 5.5 对比",
     "tools": []
   },
   {
@@ -815,6 +958,17 @@
     "postedAt": "2026-11-13",
     "title": "More Three.js experiments with Atlas and Fable 5.2",
     "titleZh": "更多 Atlas 加 Fable 5.2 的 Three.js 实验",
+    "tools": []
+  },
+  {
+    "id": "2122421921790767239",
+    "url": "https://x.com/thegeomaster/status/2122421921790767239",
+    "maker": "thegeomaster",
+    "category": "scene3d",
+    "seconds": 62,
+    "postedAt": "2026-11-16",
+    "title": "A playable 3D platformer level, from concept art to Blender in one day",
+    "titleZh": "一天完成的可玩 3D 平台跳跃关卡，从概念图到 Blender 建模",
     "tools": []
   },
   {
@@ -843,17 +997,6 @@
     "tools": []
   },
   {
-    "id": "2122421921790767239",
-    "url": "https://x.com/thegeomaster/status/2122421921790767239",
-    "maker": "thegeomaster",
-    "category": "scene3d",
-    "seconds": 62,
-    "postedAt": "2026-11-16",
-    "title": "A playable 3D platformer level, from concept art to Blender in one day",
-    "titleZh": "一天完成的可玩 3D 平台跳跃关卡，从概念图到 Blender 建模",
-    "tools": []
-  },
-  {
     "id": "2120517875144233201",
     "url": "https://x.com/alegiiaa/status/2120517875144233201",
     "maker": "alegiiaa",
@@ -873,6 +1016,17 @@
     "postedAt": "2026-11-09",
     "title": "An Earth scene five months apart: Fable 5 vs Fable 5.2",
     "titleZh": "相隔 5 个月的地球场景：Fable 5 对比 Fable 5.2",
+    "tools": []
+  },
+  {
+    "id": "2125304202587234481",
+    "url": "https://x.com/Rubzem/status/2125304202587234481",
+    "maker": "Rubzem",
+    "category": "scene3d",
+    "seconds": 86,
+    "postedAt": "2026-11-24",
+    "title": "Getting There, four new chapters of the hand-painted storybook game",
+    "titleZh": "《Getting There》手绘绘本游戏新增四个章节",
     "tools": []
   },
   {
@@ -906,6 +1060,17 @@
     "postedAt": "2026-11-10",
     "title": "A lion clawing out of a carpet: Fable 5.2 vs Gemini 4 Argon",
     "titleZh": "狮子从地毯中挣脱而出：Fable 5.2 对比 Gemini 4 Argon",
+    "tools": []
+  },
+  {
+    "id": "2122361634190696575",
+    "url": "https://x.com/nickvernij/status/2122361634190696575",
+    "maker": "nickvernij",
+    "category": "scene3d",
+    "seconds": 15,
+    "postedAt": "2026-11-16",
+    "title": "An Amsterdam street in 3D, built from the Street View API",
+    "titleZh": "借助街景 API 搭建的 3D 阿姆斯特丹街道",
     "tools": []
   },
   {
@@ -945,6 +1110,17 @@
     ]
   },
   {
+    "id": "2122773694783349144",
+    "url": "https://x.com/EnvolDev/status/2122773694783349144",
+    "maker": "EnvolDev",
+    "category": "compare",
+    "seconds": 25,
+    "postedAt": "2026-11-17",
+    "title": "A cathedral of ice from the same prompt: GPT-6.2 Astra vs Fable 5.2",
+    "titleZh": "同一提示的冰之大教堂：GPT-6.2 Astra 对比 Fable 5.2",
+    "tools": []
+  },
+  {
     "id": "2120621109125202344",
     "url": "https://x.com/KHvostikk/status/2120621109125202344",
     "maker": "KHvostikk",
@@ -953,17 +1129,6 @@
     "postedAt": "2026-11-11",
     "title": "A reference image turned into a 3D model with PBR textures",
     "titleZh": "参考图转成带 PBR 贴图的 3D 模型",
-    "tools": []
-  },
-  {
-    "id": "2122361634190696575",
-    "url": "https://x.com/nickvernij/status/2122361634190696575",
-    "maker": "nickvernij",
-    "category": "scene3d",
-    "seconds": 15,
-    "postedAt": "2026-11-16",
-    "title": "An Amsterdam street in 3D, built from the Street View API",
-    "titleZh": "借助街景 API 搭建的 3D 阿姆斯特丹街道",
     "tools": []
   },
   {
@@ -989,6 +1154,28 @@
     "tools": []
   },
   {
+    "id": "2123878763624857693",
+    "url": "https://x.com/eliadele/status/2123878763624857693",
+    "maker": "eliadele",
+    "category": "compare",
+    "seconds": 76,
+    "postedAt": "2026-11-20",
+    "title": "A seaplane landing at Bora Bora from one sentence: four frontier models side by side",
+    "titleZh": "一句话让水上飞机降落波拉波拉岛：四个前沿模型并排对比",
+    "tools": []
+  },
+  {
+    "id": "2123756243827486822",
+    "url": "https://x.com/mizugame_22/status/2123756243827486822",
+    "maker": "mizugame_22",
+    "category": "compare",
+    "seconds": 13,
+    "postedAt": "2026-11-20",
+    "title": "A rainy Kyoto alley at night in Blender: Fable 5.2 vs GPT-6.2 Astra vs Gemini 4 Neon",
+    "titleZh": "Blender 里雨夜的京都小巷：Fable 5.2、GPT-6.2 Astra、Gemini 4 Neon 对比",
+    "tools": []
+  },
+  {
     "id": "2119987174884143348",
     "url": "https://x.com/pwnies/status/2119987174884143348",
     "maker": "pwnies",
@@ -997,6 +1184,17 @@
     "postedAt": "2026-11-10",
     "title": "A broom-riding game inspired by Kiki's Delivery Service",
     "titleZh": "受《魔女宅急便》启发的骑扫帚飞行游戏",
+    "tools": []
+  },
+  {
+    "id": "2119995155625181371",
+    "url": "https://x.com/rayanabdulcader/status/2119995155625181371",
+    "maker": "rayanabdulcader",
+    "category": "compare",
+    "seconds": 56,
+    "postedAt": "2026-11-10",
+    "title": "Dock icons fight as stick figures, Opus 5.5 vs Fable 5.2",
+    "titleZh": "Dock 图标化身火柴人对战：Opus 5.5 对比 Fable 5.2",
     "tools": []
   },
   {
@@ -1013,17 +1211,6 @@
     ]
   },
   {
-    "id": "2119995155625181371",
-    "url": "https://x.com/rayanabdulcader/status/2119995155625181371",
-    "maker": "rayanabdulcader",
-    "category": "compare",
-    "seconds": 56,
-    "postedAt": "2026-11-10",
-    "title": "Dock icons fight as stick figures, Opus 5.5 vs Fable 5.2",
-    "titleZh": "Dock 图标化身火柴人对战：Opus 5.5 对比 Fable 5.2",
-    "tools": []
-  },
-  {
     "id": "2120198663062622581",
     "url": "https://x.com/kevin_t_ngo/status/2120198663062622581",
     "maker": "kevin_t_ngo",
@@ -1038,25 +1225,14 @@
     ]
   },
   {
-    "id": "2120254108104007712",
-    "url": "https://x.com/scottstts/status/2120254108104007712",
-    "maker": "scottstts",
+    "id": "2120561077385867663",
+    "url": "https://x.com/DilumSanjaya/status/2120561077385867663",
+    "maker": "DilumSanjaya",
     "category": "scene3d",
-    "seconds": 60,
-    "postedAt": "2026-11-10",
-    "title": "Dragon's Nest, a dragon over a pagoda valley in Three.js",
-    "titleZh": "《Dragon's Nest》：Three.js 中盘旋在楼阁山谷上空的龙",
-    "tools": []
-  },
-  {
-    "id": "2122866766590173419",
-    "url": "https://x.com/ChrisGPT/status/2122866766590173419",
-    "maker": "ChrisGPT",
-    "category": "scene3d",
-    "seconds": 88,
-    "postedAt": "2026-11-18",
-    "title": "An underwater survival game that starts on half a submarine",
-    "titleZh": "从半截潜艇上醒来的水下求生游戏",
+    "seconds": 82,
+    "postedAt": "2026-11-11",
+    "title": "A rocker-bogie rover simulated on alien terrain",
+    "titleZh": "采用摇臂转向架悬挂的探测车驶过外星地形",
     "tools": []
   },
   {
@@ -1071,14 +1247,36 @@
     "tools": []
   },
   {
-    "id": "2120561077385867663",
-    "url": "https://x.com/DilumSanjaya/status/2120561077385867663",
-    "maker": "DilumSanjaya",
+    "id": "2122815524124152216",
+    "url": "https://x.com/AmirMushich/status/2122815524124152216",
+    "maker": "AmirMushich",
+    "category": "compare",
+    "seconds": 12,
+    "postedAt": "2026-11-17",
+    "title": "A robotic hand modeled and animated in Blender: GPT-6.2 Astra vs Fable 5.2",
+    "titleZh": "在 Blender 中建模并制作动画的机械手：GPT-6.2 Astra 对比 Fable 5.2",
+    "tools": []
+  },
+  {
+    "id": "2120254108104007712",
+    "url": "https://x.com/scottstts/status/2120254108104007712",
+    "maker": "scottstts",
     "category": "scene3d",
-    "seconds": 82,
-    "postedAt": "2026-11-11",
-    "title": "A rocker-bogie rover simulated on alien terrain",
-    "titleZh": "采用摇臂转向架悬挂的探测车驶过外星地形",
+    "seconds": 60,
+    "postedAt": "2026-11-10",
+    "title": "Dragon's Nest, a dragon over a pagoda valley in Three.js",
+    "titleZh": "《Dragon's Nest》：Three.js 中盘旋在楼阁山谷上空的龙",
+    "tools": []
+  },
+  {
+    "id": "2122673770607591855",
+    "url": "https://x.com/BlendiByl/status/2122673770607591855",
+    "maker": "BlendiByl",
+    "category": "scene3d",
+    "seconds": 80,
+    "postedAt": "2026-11-17",
+    "title": "A tiny solar system you can fly around, inspired by Outer Wilds",
+    "titleZh": "可以自由飞行的迷你太阳系，灵感来自《星际拓荒》",
     "tools": []
   },
   {
@@ -1093,14 +1291,14 @@
     "tools": []
   },
   {
-    "id": "2122773694783349144",
-    "url": "https://x.com/EnvolDev/status/2122773694783349144",
-    "maker": "EnvolDev",
-    "category": "compare",
-    "seconds": 25,
-    "postedAt": "2026-11-17",
-    "title": "A cathedral of ice from the same prompt: GPT-6.2 Astra vs Fable 5.2",
-    "titleZh": "同一提示的冰之大教堂：GPT-6.2 Astra 对比 Fable 5.2",
+    "id": "2125250192773390610",
+    "url": "https://x.com/hectorVFX/status/2125250192773390610",
+    "maker": "hectorVFX",
+    "category": "scene3d",
+    "seconds": 13,
+    "postedAt": "2026-11-24",
+    "title": "A burning house in Blender and Unreal Engine, directed by voice from a phone",
+    "titleZh": "Blender 加 Unreal Engine 里燃烧的房子，全程用手机语音指挥",
     "tools": []
   },
   {
@@ -1174,6 +1372,17 @@
     "tools": []
   },
   {
+    "id": "2123889278501495127",
+    "url": "https://x.com/jony_palino/status/2123889278501495127",
+    "maker": "jony_palino",
+    "category": "compare",
+    "seconds": 16,
+    "postedAt": "2026-11-20",
+    "title": "A cyclist at sunset: Gemini 4 Neon vs GPT-6.2 Sol vs DeepSeek V4.1 Flash vs Fable 5.2",
+    "titleZh": "日落骑行：Gemini 4 Neon、GPT-6.2 Sol、DeepSeek V4.1 Flash、Fable 5.2 对比",
+    "tools": []
+  },
+  {
     "id": "2119953913160093817",
     "url": "https://x.com/WesRoth/status/2119953913160093817",
     "maker": "WesRoth",
@@ -1182,17 +1391,6 @@
     "postedAt": "2026-11-10",
     "title": "Another video made in one shot",
     "titleZh": "又一支一次生成的视频",
-    "tools": []
-  },
-  {
-    "id": "2120306434575392793",
-    "url": "https://x.com/JaydenDavisNC/status/2120306434575392793",
-    "maker": "JaydenDavisNC",
-    "category": "scene3d",
-    "seconds": 226,
-    "postedAt": "2026-11-11",
-    "title": "A first-person shooter in Three.js with no outside assets",
-    "titleZh": "不用任何外部素材的 Three.js 第一人称射击游戏",
     "tools": []
   },
   {
@@ -1209,14 +1407,36 @@
     ]
   },
   {
-    "id": "2122803967272866254",
-    "url": "https://x.com/EnvolDev/status/2122803967272866254",
-    "maker": "EnvolDev",
+    "id": "2120306434575392793",
+    "url": "https://x.com/JaydenDavisNC/status/2120306434575392793",
+    "maker": "JaydenDavisNC",
+    "category": "scene3d",
+    "seconds": 226,
+    "postedAt": "2026-11-11",
+    "title": "A first-person shooter in Three.js with no outside assets",
+    "titleZh": "不用任何外部素材的 Three.js 第一人称射击游戏",
+    "tools": []
+  },
+  {
+    "id": "2122837291874070590",
+    "url": "https://x.com/ChrisGPT/status/2122837291874070590",
+    "maker": "ChrisGPT",
     "category": "compare",
-    "seconds": 25,
+    "seconds": 10,
     "postedAt": "2026-11-17",
-    "title": "A plane from the Alpine Gold prompt: GPT-6.2 Astra vs GPT-6.2 Sol vs Fable 5.2 vs Opus 5.5",
-    "titleZh": "同一 Alpine Gold 提示的飞机：GPT-6.2 Astra、GPT-6.2 Sol、Fable 5.2 与 Opus 5.5 对比",
+    "title": "A 10-second cowboy toy film in Blender: GPT-6.2 Astra vs Fable 5.2",
+    "titleZh": "Blender 中 10 秒的牛仔玩具短片：GPT-6.2 Astra 对比 Fable 5.2",
+    "tools": []
+  },
+  {
+    "id": "2122408638950371579",
+    "url": "https://x.com/anvithbuilds/status/2122408638950371579",
+    "maker": "anvithbuilds",
+    "category": "scene3d",
+    "seconds": 52,
+    "postedAt": "2026-11-16",
+    "title": "A town walking on mechanical legs over green hills, one-shot in three.js",
+    "titleZh": "迈着机械腿走过绿色山丘的小镇，three.js 一次生成",
     "tools": []
   },
   {
@@ -1231,14 +1451,14 @@
     "tools": []
   },
   {
-    "id": "2122408638950371579",
-    "url": "https://x.com/anvithbuilds/status/2122408638950371579",
-    "maker": "anvithbuilds",
+    "id": "2124647333329862986",
+    "url": "https://x.com/hayashimon1/status/2124647333329862986",
+    "maker": "hayashimon1",
     "category": "scene3d",
-    "seconds": 52,
-    "postedAt": "2026-11-16",
-    "title": "A town walking on mechanical legs over green hills, one-shot in three.js",
-    "titleZh": "迈着机械腿走过绿色山丘的小镇，three.js 一次生成",
+    "seconds": 20,
+    "postedAt": "2026-11-22",
+    "title": "A mechanical tengu hall moved from Blender to Unreal Engine, renders 100x faster",
+    "titleZh": "机械天狗大殿从 Blender 搬到 Unreal Engine，渲染快了约 100 倍",
     "tools": []
   },
   {
@@ -1266,14 +1486,14 @@
     "tools": []
   },
   {
-    "id": "2122673770607591855",
-    "url": "https://x.com/BlendiByl/status/2122673770607591855",
-    "maker": "BlendiByl",
+    "id": "2124142554371502140",
+    "url": "https://x.com/Rubzem/status/2124142554371502140",
+    "maker": "Rubzem",
     "category": "scene3d",
-    "seconds": 80,
-    "postedAt": "2026-11-17",
-    "title": "A tiny solar system you can fly around, inspired by Outer Wilds",
-    "titleZh": "可以自由飞行的迷你太阳系，灵感来自《星际拓荒》",
+    "seconds": 40,
+    "postedAt": "2026-11-21",
+    "title": "A physics puzzle platformer where you play as shapeshifting water, 190 KB",
+    "titleZh": "扮演会变形的水的物理解谜平台游戏，只有 190 KB",
     "tools": []
   },
   {
@@ -1341,6 +1561,28 @@
     "postedAt": "2026-11-11",
     "title": "Jelly physics: Opus 5.5 ($4.51) vs Fable 5.2 ($16.97)",
     "titleZh": "果冻物理：Opus 5.5 对比贵近 4 倍的 Fable 5.2",
+    "tools": []
+  },
+  {
+    "id": "2122806350543774075",
+    "url": "https://x.com/MrTacticalX/status/2122806350543774075",
+    "maker": "MrTacticalX",
+    "category": "compare",
+    "seconds": 30,
+    "postedAt": "2026-11-17",
+    "title": "A glass pool from the same prompt: Fable 5.2 vs GPT-6.2 Astra",
+    "titleZh": "同一提示的玻璃泳池：Fable 5.2 对比 GPT-6.2 Astra",
+    "tools": []
+  },
+  {
+    "id": "2124439671006748853",
+    "url": "https://x.com/BlendiByl/status/2124439671006748853",
+    "maker": "BlendiByl",
+    "category": "scene3d",
+    "seconds": 37,
+    "postedAt": "2026-11-22",
+    "title": "An art deco 3D scene drawn in code, open source",
+    "titleZh": "用代码画出的装饰艺术风 3D 场景，已开源",
     "tools": []
   },
   {
@@ -1443,14 +1685,14 @@
     "tools": []
   },
   {
-    "id": "2122837291874070590",
-    "url": "https://x.com/ChrisGPT/status/2122837291874070590",
-    "maker": "ChrisGPT",
-    "category": "compare",
-    "seconds": 10,
-    "postedAt": "2026-11-17",
-    "title": "A 10-second cowboy toy film in Blender: GPT-6.2 Astra vs Fable 5.2",
-    "titleZh": "Blender 中 10 秒的牛仔玩具短片：GPT-6.2 Astra 对比 Fable 5.2",
+    "id": "2121001440470577157",
+    "url": "https://x.com/0xMovez/status/2121001440470577157",
+    "maker": "0xMovez",
+    "category": "film",
+    "seconds": 101,
+    "postedAt": "2026-11-12",
+    "title": "A 2-minute animated short in Three.js, 8 worlds, 16 shots",
+    "titleZh": "纯 Three.js 制作的 2 分钟动画短片，8 个世界 16 个镜头",
     "tools": []
   },
   {
@@ -1467,28 +1709,6 @@
       "MuJoCo",
       "Blender"
     ]
-  },
-  {
-    "id": "2121001440470577157",
-    "url": "https://x.com/0xMovez/status/2121001440470577157",
-    "maker": "0xMovez",
-    "category": "film",
-    "seconds": 101,
-    "postedAt": "2026-11-12",
-    "title": "A 2-minute animated short in Three.js, 8 worlds, 16 shots",
-    "titleZh": "纯 Three.js 制作的 2 分钟动画短片，8 个世界 16 个镜头",
-    "tools": []
-  },
-  {
-    "id": "2122815524124152216",
-    "url": "https://x.com/AmirMushich/status/2122815524124152216",
-    "maker": "AmirMushich",
-    "category": "compare",
-    "seconds": 12,
-    "postedAt": "2026-11-17",
-    "title": "A robotic hand modeled and animated in Blender: GPT-6.2 Astra vs Fable 5.2",
-    "titleZh": "在 Blender 中建模并制作动画的机械手：GPT-6.2 Astra 对比 Fable 5.2",
-    "tools": []
   },
   {
     "id": "2120223731520040966",
@@ -1535,6 +1755,17 @@
     "tools": []
   },
   {
+    "id": "2125288449788019168",
+    "url": "https://x.com/kevin_t_ngo/status/2125288449788019168",
+    "maker": "kevin_t_ngo",
+    "category": "motion",
+    "seconds": 52,
+    "postedAt": "2026-11-24",
+    "title": "Tokyo, an animation drawn in code",
+    "titleZh": "东京，一段用代码画出的动画",
+    "tools": []
+  },
+  {
     "id": "2120813043101946324",
     "url": "https://x.com/tkm_hmng8/status/2120813043101946324",
     "maker": "tkm_hmng8",
@@ -1554,17 +1785,6 @@
     "postedAt": "2026-11-11",
     "title": "Beauty, a short film from a one-line prompt",
     "titleZh": "《美》：一句话提示生成的短片",
-    "tools": []
-  },
-  {
-    "id": "2122862040326807696",
-    "url": "https://x.com/dom_scholz/status/2122862040326807696",
-    "maker": "dom_scholz",
-    "category": "compare",
-    "seconds": 40,
-    "postedAt": "2026-11-18",
-    "title": "A seabed submarine in three.js: Fable 5.2 at 242 KB vs GPT-6.2 Astra at 32.9 MB",
-    "titleZh": "three.js 海底潜艇：Fable 5.2 仅 242 KB，GPT-6.2 Astra 达 32.9 MB",
     "tools": []
   },
   {
@@ -1592,17 +1812,6 @@
     ]
   },
   {
-    "id": "2120156122133004665",
-    "url": "https://x.com/ann_nnng/status/2120156122133004665",
-    "maker": "ann_nnng",
-    "category": "scene3d",
-    "seconds": 29,
-    "postedAt": "2026-11-10",
-    "title": "Fishing and farming in an embossed paper style",
-    "titleZh": "压纹纸画风格的捕鱼与农耕场景",
-    "tools": []
-  },
-  {
     "id": "2121701020598415465",
     "url": "https://x.com/kevin_t_ngo/status/2121701020598415465",
     "maker": "kevin_t_ngo",
@@ -1611,6 +1820,17 @@
     "postedAt": "2026-11-14",
     "title": "A side-scrolling RPG demo with every visual drawn in code",
     "titleZh": "画面全部由代码绘制的横版 RPG 试玩",
+    "tools": []
+  },
+  {
+    "id": "2120156122133004665",
+    "url": "https://x.com/ann_nnng/status/2120156122133004665",
+    "maker": "ann_nnng",
+    "category": "scene3d",
+    "seconds": 29,
+    "postedAt": "2026-11-10",
+    "title": "Fishing and farming in an embossed paper style",
+    "titleZh": "压纹纸画风格的捕鱼与农耕场景",
     "tools": []
   },
   {
@@ -1637,39 +1857,6 @@
     "promptUrl": "https://x.com/oalanicolas/status/2120266468780585456"
   },
   {
-    "id": "2121893902286524880",
-    "url": "https://x.com/JungleSilicon/status/2121893902286524880",
-    "maker": "JungleSilicon",
-    "category": "scene3d",
-    "seconds": 38,
-    "postedAt": "2026-11-15",
-    "title": "A bee in a glowing honeycomb, in pixel-art Gaussian splats",
-    "titleZh": "发光蜂巢中的蜜蜂，像素风高斯泼溅",
-    "tools": []
-  },
-  {
-    "id": "2122806350543774075",
-    "url": "https://x.com/MrTacticalX/status/2122806350543774075",
-    "maker": "MrTacticalX",
-    "category": "compare",
-    "seconds": 30,
-    "postedAt": "2026-11-17",
-    "title": "A glass pool from the same prompt: Fable 5.2 vs GPT-6.2 Astra",
-    "titleZh": "同一提示的玻璃泳池：Fable 5.2 对比 GPT-6.2 Astra",
-    "tools": []
-  },
-  {
-    "id": "2120464036030517525",
-    "url": "https://x.com/MartinOesterhel/status/2120464036030517525",
-    "maker": "MartinOesterhel",
-    "category": "explainer",
-    "seconds": 92,
-    "postedAt": "2026-11-11",
-    "title": "A trailer-style video on the soil texture triangle",
-    "titleZh": "以预告片形式讲解土壤质地三角图",
-    "tools": []
-  },
-  {
     "id": "2121671659371585638",
     "url": "https://x.com/MrTacticalX/status/2121671659371585638",
     "maker": "MrTacticalX",
@@ -1678,6 +1865,17 @@
     "postedAt": "2026-11-14",
     "title": "A glass keyboard modeled in Blender, 7 hours and $139.87",
     "titleZh": "在 Blender 中建模的玻璃键盘，耗时 7 小时、花费 139.87 美元",
+    "tools": []
+  },
+  {
+    "id": "2121893902286524880",
+    "url": "https://x.com/JungleSilicon/status/2121893902286524880",
+    "maker": "JungleSilicon",
+    "category": "scene3d",
+    "seconds": 38,
+    "postedAt": "2026-11-15",
+    "title": "A bee in a glowing honeycomb, in pixel-art Gaussian splats",
+    "titleZh": "发光蜂巢中的蜜蜂，像素风高斯泼溅",
     "tools": []
   },
   {
@@ -1692,25 +1890,36 @@
     "tools": []
   },
   {
-    "id": "2119879667457073355",
-    "url": "https://x.com/Gregoirechp/status/2119879667457073355",
-    "maker": "Gregoirechp",
-    "category": "motion",
-    "seconds": 40,
-    "postedAt": "2026-11-09",
-    "title": "A motion design piece, made in a few minutes",
-    "titleZh": "几分钟做出的一段动效设计",
+    "id": "2120464036030517525",
+    "url": "https://x.com/MartinOesterhel/status/2120464036030517525",
+    "maker": "MartinOesterhel",
+    "category": "explainer",
+    "seconds": 92,
+    "postedAt": "2026-11-11",
+    "title": "A trailer-style video on the soil texture triangle",
+    "titleZh": "以预告片形式讲解土壤质地三角图",
     "tools": []
   },
   {
-    "id": "2119960596951236675",
-    "url": "https://x.com/semichenkko/status/2119960596951236675",
-    "maker": "semichenkko",
-    "category": "compare",
-    "seconds": 10,
-    "postedAt": "2026-11-10",
-    "title": "First prompt vs final: 1886 New York floating in the sky",
-    "titleZh": "第一版提示对比最终版：漂浮在空中的 1886 年纽约",
+    "id": "2122969346935017497",
+    "url": "https://x.com/kevin_t_ngo/status/2122969346935017497",
+    "maker": "kevin_t_ngo",
+    "category": "scene3d",
+    "seconds": 55,
+    "postedAt": "2026-11-18",
+    "title": "Dawnlings, a cozy platformer demo playable in the browser",
+    "titleZh": "《Dawnlings》，可在浏览器里玩的治愈系平台游戏试玩",
+    "tools": []
+  },
+  {
+    "id": "2120783430606840084",
+    "url": "https://x.com/jeanalexandre_b/status/2120783430606840084",
+    "maker": "jeanalexandre_b",
+    "category": "motion",
+    "seconds": 68,
+    "postedAt": "2026-11-12",
+    "title": "A photo recreated from 100,000 color patches, by code alone",
+    "titleZh": "只用代码，以 10 万个色块重现一张照片",
     "tools": []
   },
   {
@@ -1725,14 +1934,36 @@
     "tools": []
   },
   {
-    "id": "2119900920347828670",
-    "url": "https://x.com/mattshumer_/status/2119900920347828670",
-    "maker": "mattshumer_",
-    "category": "film",
-    "seconds": 2929,
+    "id": "2119879667457073355",
+    "url": "https://x.com/Gregoirechp/status/2119879667457073355",
+    "maker": "Gregoirechp",
+    "category": "motion",
+    "seconds": 40,
     "postedAt": "2026-11-09",
-    "title": "A 49-minute movie made in code, with voices and graphics",
-    "titleZh": "49 分钟的电影，配音和画面全部由代码生成",
+    "title": "A motion design piece, made in a few minutes",
+    "titleZh": "几分钟做出的一段动效设计",
+    "tools": []
+  },
+  {
+    "id": "2122993773722608099",
+    "url": "https://x.com/anvithbuilds/status/2122993773722608099",
+    "maker": "anvithbuilds",
+    "category": "scene3d",
+    "seconds": 22,
+    "postedAt": "2026-11-18",
+    "title": "Whales flying over a green valley, one-shotted in three.js",
+    "titleZh": "鲸鱼飞过绿色山谷，three.js 一次生成",
+    "tools": []
+  },
+  {
+    "id": "2119960596951236675",
+    "url": "https://x.com/semichenkko/status/2119960596951236675",
+    "maker": "semichenkko",
+    "category": "compare",
+    "seconds": 10,
+    "postedAt": "2026-11-10",
+    "title": "First prompt vs final: 1886 New York floating in the sky",
+    "titleZh": "第一版提示对比最终版：漂浮在空中的 1886 年纽约",
     "tools": []
   },
   {
@@ -1747,6 +1978,17 @@
     "tools": []
   },
   {
+    "id": "2119900920347828670",
+    "url": "https://x.com/mattshumer_/status/2119900920347828670",
+    "maker": "mattshumer_",
+    "category": "film",
+    "seconds": 2929,
+    "postedAt": "2026-11-09",
+    "title": "A 49-minute movie made in code, with voices and graphics",
+    "titleZh": "49 分钟的电影，配音和画面全部由代码生成",
+    "tools": []
+  },
+  {
     "id": "2121262812228141395",
     "url": "https://x.com/scottstts/status/2121262812228141395",
     "maker": "scottstts",
@@ -1755,17 +1997,6 @@
     "postedAt": "2026-11-13",
     "title": "Astral Realm, a procedural Three.js scene made in 2 hours",
     "titleZh": "《Astral Realm》：2 小时做出的程序化场景",
-    "tools": []
-  },
-  {
-    "id": "2120783430606840084",
-    "url": "https://x.com/jeanalexandre_b/status/2120783430606840084",
-    "maker": "jeanalexandre_b",
-    "category": "motion",
-    "seconds": 68,
-    "postedAt": "2026-11-12",
-    "title": "A photo recreated from 100,000 color patches, by code alone",
-    "titleZh": "只用代码，以 10 万个色块重现一张照片",
     "tools": []
   },
   {
@@ -1799,6 +2030,17 @@
     "postedAt": "2026-11-14",
     "title": "Stars that carry Arabic names, about 4 revisions at low effort",
     "titleZh": "那些以阿拉伯语命名的星星，Low 强度下修改约 4 次",
+    "tools": []
+  },
+  {
+    "id": "2123305001804333337",
+    "url": "https://x.com/lemomo_ai/status/2123305001804333337",
+    "maker": "lemomo_ai",
+    "category": "compare",
+    "seconds": 20,
+    "postedAt": "2026-11-19",
+    "title": "A strawberry melting out of ice: Gemini 4 Neon vs Fable 5.2 vs Opus 5.5 vs GPT-6.2 Astra",
+    "titleZh": "冰块里的草莓融化：Gemini 4 Neon、Fable 5.2、Opus 5.5、GPT-6.2 Astra 对比",
     "tools": []
   },
   {
@@ -1854,6 +2096,17 @@
     "postedAt": "2026-11-11",
     "title": "The next chapter of a spaghetti western saga: young romance",
     "titleZh": "意式西部片系列新篇章：一段波折的青涩恋情",
+    "tools": []
+  },
+  {
+    "id": "2122464141990588795",
+    "url": "https://x.com/apekshik/status/2122464141990588795",
+    "maker": "apekshik",
+    "category": "scene3d",
+    "seconds": 87,
+    "postedAt": "2026-11-16",
+    "title": "A 100-foot walking robot in Blender, 160 parts with a rig and walk cycle",
+    "titleZh": "Blender 中 100 英尺高的步行机器人，160 个零件，带绑定和行走循环",
     "tools": []
   },
   {
@@ -1915,17 +2168,6 @@
     "tools": []
   },
   {
-    "id": "2122464141990588795",
-    "url": "https://x.com/apekshik/status/2122464141990588795",
-    "maker": "apekshik",
-    "category": "scene3d",
-    "seconds": 87,
-    "postedAt": "2026-11-16",
-    "title": "A 100-foot walking robot in Blender, 160 parts with a rig and walk cycle",
-    "titleZh": "Blender 中 100 英尺高的步行机器人，160 个零件，带绑定和行走循环",
-    "tools": []
-  },
-  {
     "id": "2119901782482543073",
     "url": "https://x.com/0kncn/status/2119901782482543073",
     "maker": "0kncn",
@@ -1951,6 +2193,17 @@
     "tools": []
   },
   {
+    "id": "2124669366512001493",
+    "url": "https://x.com/kevin_t_ngo/status/2124669366512001493",
+    "maker": "kevin_t_ngo",
+    "category": "scene3d",
+    "seconds": 53,
+    "postedAt": "2026-11-23",
+    "title": "Ballpoint Dominion, a strategy game where you draw your army in ink",
+    "titleZh": "《Ballpoint Dominion》，用墨水画出军队的策略游戏",
+    "tools": []
+  },
+  {
     "id": "2121657720289767666",
     "url": "https://x.com/crtvTeknologist/status/2121657720289767666",
     "maker": "crtvTeknologist",
@@ -1959,6 +2212,28 @@
     "postedAt": "2026-11-14",
     "title": "A set of UI controls animated in sakuga style",
     "titleZh": "日式作画（Sakuga）风格的一组 UI 控件动画",
+    "tools": []
+  },
+  {
+    "id": "2122879969420566740",
+    "url": "https://x.com/rubenssoto_ai/status/2122879969420566740",
+    "maker": "rubenssoto_ai",
+    "category": "compare",
+    "seconds": 30,
+    "postedAt": "2026-11-18",
+    "title": "A campfire in the woods: GPT-6.2 Astra vs Fable 5.2 vs Opus 5.5",
+    "titleZh": "林中篝火：GPT-6.2 Astra、Fable 5.2、Opus 5.5 对比",
+    "tools": []
+  },
+  {
+    "id": "2119953172634677533",
+    "url": "https://x.com/MaxXWilliamson/status/2119953172634677533",
+    "maker": "MaxXWilliamson",
+    "category": "scene3d",
+    "seconds": 25,
+    "postedAt": "2026-11-10",
+    "title": "A Mediterranean-themed space habitat",
+    "titleZh": "地中海主题的太空栖居站",
     "tools": []
   },
   {
@@ -1972,17 +2247,6 @@
     "titleZh": "Raspberry Pi 5 的动画",
     "tools": [],
     "prompt": "animate a raspberry pi 5"
-  },
-  {
-    "id": "2119953172634677533",
-    "url": "https://x.com/MaxXWilliamson/status/2119953172634677533",
-    "maker": "MaxXWilliamson",
-    "category": "scene3d",
-    "seconds": 25,
-    "postedAt": "2026-11-10",
-    "title": "A Mediterranean-themed space habitat",
-    "titleZh": "地中海主题的太空栖居站",
-    "tools": []
   },
   {
     "id": "2119903808935313778",
@@ -2004,6 +2268,17 @@
     "postedAt": "2026-11-11",
     "title": "The Bay Area through 250 years of history, explorable by year",
     "titleZh": "可按年份浏览的旧金山湾区 250 年历史模拟",
+    "tools": []
+  },
+  {
+    "id": "2122929026084012461",
+    "url": "https://x.com/JungleSilicon/status/2122929026084012461",
+    "maker": "JungleSilicon",
+    "category": "scene3d",
+    "seconds": 28,
+    "postedAt": "2026-11-18",
+    "title": "Lava, clockwork and an owl in pixel-art Gaussian splats",
+    "titleZh": "熔岩、齿轮和猫头鹰，像素风高斯泼溅",
     "tools": []
   },
   {
@@ -2031,6 +2306,28 @@
     "tools": []
   },
   {
+    "id": "2121339316311888329",
+    "url": "https://x.com/EnvolDev/status/2121339316311888329",
+    "maker": "EnvolDev",
+    "category": "compare",
+    "seconds": 25,
+    "postedAt": "2026-11-13",
+    "title": "A seaplane film at four Fable 5.2 effort levels, $61.90 to $288.25",
+    "titleZh": "Fable 5.2 四档强度对比：水上飞机短片，61.90 至 288.25 美元",
+    "tools": []
+  },
+  {
+    "id": "2122384446397768047",
+    "url": "https://x.com/vib3coded/status/2122384446397768047",
+    "maker": "vib3coded",
+    "category": "compare",
+    "seconds": 17,
+    "postedAt": "2026-11-16",
+    "title": "A jelly sperm whale: Opus 5.5 at $5.02 vs Fable 5.2 at $24.60",
+    "titleZh": "果冻抹香鲸：Opus 5.5 花费 5.02 美元，Fable 5.2 花费 24.60 美元",
+    "tools": []
+  },
+  {
     "id": "2120205080796315824",
     "url": "https://x.com/alexwg/status/2120205080796315824",
     "maker": "alexwg",
@@ -2039,17 +2336,6 @@
     "postedAt": "2026-11-10",
     "title": "Neon Requiem, a cyberpunk shooter from one prompt",
     "titleZh": "《Neon Requiem》：一次提示做出的赛博朋克射击游戏",
-    "tools": []
-  },
-  {
-    "id": "2121395037565337862",
-    "url": "https://x.com/LexnLin/status/2121395037565337862",
-    "maker": "LexnLin",
-    "category": "motion",
-    "seconds": 20,
-    "postedAt": "2026-11-14",
-    "title": "A launch video for Opus 5.6, made in under an hour",
-    "titleZh": "不到 1 小时做出的 Opus 5.6 发布视频",
     "tools": []
   },
   {
@@ -2064,14 +2350,25 @@
     "tools": []
   },
   {
-    "id": "2121339316311888329",
-    "url": "https://x.com/EnvolDev/status/2121339316311888329",
-    "maker": "EnvolDev",
-    "category": "compare",
-    "seconds": 25,
-    "postedAt": "2026-11-13",
-    "title": "A seaplane film at four Fable 5.2 effort levels, $61.90 to $288.25",
-    "titleZh": "Fable 5.2 四档强度对比：水上飞机短片，61.90 至 288.25 美元",
+    "id": "2121395037565337862",
+    "url": "https://x.com/LexnLin/status/2121395037565337862",
+    "maker": "LexnLin",
+    "category": "motion",
+    "seconds": 20,
+    "postedAt": "2026-11-14",
+    "title": "A launch video for Opus 5.6, made in under an hour",
+    "titleZh": "不到 1 小时做出的 Opus 5.6 发布视频",
+    "tools": []
+  },
+  {
+    "id": "2121589715363303843",
+    "url": "https://x.com/noel_ai_lab/status/2121589715363303843",
+    "maker": "noel_ai_lab",
+    "category": "motion",
+    "seconds": 29,
+    "postedAt": "2026-11-14",
+    "title": "Japanese kinetic type under stage lights, music by Suno",
+    "titleZh": "舞台灯光下的日文动态字体，配乐来自 Suno",
     "tools": []
   },
   {
@@ -2108,28 +2405,6 @@
     "tools": []
   },
   {
-    "id": "2122384446397768047",
-    "url": "https://x.com/vib3coded/status/2122384446397768047",
-    "maker": "vib3coded",
-    "category": "compare",
-    "seconds": 17,
-    "postedAt": "2026-11-16",
-    "title": "A jelly sperm whale: Opus 5.5 at $5.02 vs Fable 5.2 at $24.60",
-    "titleZh": "果冻抹香鲸：Opus 5.5 花费 5.02 美元，Fable 5.2 花费 24.60 美元",
-    "tools": []
-  },
-  {
-    "id": "2121589715363303843",
-    "url": "https://x.com/noel_ai_lab/status/2121589715363303843",
-    "maker": "noel_ai_lab",
-    "category": "motion",
-    "seconds": 29,
-    "postedAt": "2026-11-14",
-    "title": "Japanese kinetic type under stage lights, music by Suno",
-    "titleZh": "舞台灯光下的日文动态字体，配乐来自 Suno",
-    "tools": []
-  },
-  {
     "id": "2122359334290313441",
     "url": "https://x.com/NathanWilbanks_/status/2122359334290313441",
     "maker": "NathanWilbanks_",
@@ -2152,6 +2427,17 @@
     "tools": []
   },
   {
+    "id": "2121701704139956250",
+    "url": "https://x.com/EnvolDev/status/2121701704139956250",
+    "maker": "EnvolDev",
+    "category": "compare",
+    "seconds": 25,
+    "postedAt": "2026-11-14",
+    "title": "Rio above the clouds: Fable 5.2 vs Opus 5.5 vs Gemini 4 Hydrogen vs GPT-6 Astra",
+    "titleZh": "云端之上的里约：Fable 5.2、Opus 5.5、Gemini 4 Hydrogen 与 GPT-6 Astra 对比",
+    "tools": []
+  },
+  {
     "id": "2119977575053443467",
     "url": "https://x.com/_nilni/status/2119977575053443467",
     "maker": "_nilni",
@@ -2160,17 +2446,6 @@
     "postedAt": "2026-11-10",
     "title": "CinderDeep, a roguelike where every pixel is simulated",
     "titleZh": "《CinderDeep》：每个像素都经过模拟的 Roguelike 游戏",
-    "tools": []
-  },
-  {
-    "id": "2120210882382971263",
-    "url": "https://x.com/MatinSenPai/status/2120210882382971263",
-    "maker": "MatinSenPai",
-    "category": "film",
-    "seconds": 15,
-    "postedAt": "2026-11-10",
-    "title": "A 15-second motion design showreel from one prompt, $11 in API",
-    "titleZh": "一次提示生成的 15 秒动效作品集，API 花费 11 美元",
     "tools": []
   },
   {
@@ -2185,25 +2460,14 @@
     "tools": []
   },
   {
-    "id": "2121701704139956250",
-    "url": "https://x.com/EnvolDev/status/2121701704139956250",
-    "maker": "EnvolDev",
-    "category": "compare",
-    "seconds": 25,
-    "postedAt": "2026-11-14",
-    "title": "Rio above the clouds: Fable 5.2 vs Opus 5.5 vs Gemini 4 Hydrogen vs GPT-6 Astra",
-    "titleZh": "云端之上的里约：Fable 5.2、Opus 5.5、Gemini 4 Hydrogen 与 GPT-6 Astra 对比",
-    "tools": []
-  },
-  {
-    "id": "2119902204320780676",
-    "url": "https://x.com/Bhavani_00007/status/2119902204320780676",
-    "maker": "Bhavani_00007",
-    "category": "compare",
-    "seconds": 25,
-    "postedAt": "2026-11-09",
-    "title": "Rocket launch scene: Fable 5.2 vs Opus 5.5",
-    "titleZh": "火箭发射场景：Fable 5.2 对比 Opus 5.5",
+    "id": "2120210882382971263",
+    "url": "https://x.com/MatinSenPai/status/2120210882382971263",
+    "maker": "MatinSenPai",
+    "category": "film",
+    "seconds": 15,
+    "postedAt": "2026-11-10",
+    "title": "A 15-second motion design showreel from one prompt, $11 in API",
+    "titleZh": "一次提示生成的 15 秒动效作品集，API 花费 11 美元",
     "tools": []
   },
   {
@@ -2218,14 +2482,36 @@
     "tools": []
   },
   {
-    "id": "2120224530367119758",
-    "url": "https://x.com/apekshik/status/2120224530367119758",
-    "maker": "apekshik",
-    "category": "scene3d",
-    "seconds": 37,
-    "postedAt": "2026-11-10",
-    "title": "A procedurally rigged arm that grabs a ball",
-    "titleZh": "程序化绑定的手臂，能伸手抓住小球",
+    "id": "2124245249786855836",
+    "url": "https://x.com/vib3coded/status/2124245249786855836",
+    "maker": "vib3coded",
+    "category": "compare",
+    "seconds": 16,
+    "postedAt": "2026-11-21",
+    "title": "A pixel-art flight game: GPT-6.2 Astra ($5.31) vs Fable 5.2 ($22.78)",
+    "titleZh": "像素风飞行游戏：GPT-6.2 Astra（5.31 美元）对比 Fable 5.2（22.78 美元）",
+    "tools": []
+  },
+  {
+    "id": "2119902204320780676",
+    "url": "https://x.com/Bhavani_00007/status/2119902204320780676",
+    "maker": "Bhavani_00007",
+    "category": "compare",
+    "seconds": 25,
+    "postedAt": "2026-11-09",
+    "title": "Rocket launch scene: Fable 5.2 vs Opus 5.5",
+    "titleZh": "火箭发射场景：Fable 5.2 对比 Opus 5.5",
+    "tools": []
+  },
+  {
+    "id": "2123041616688820509",
+    "url": "https://x.com/ery_treasure/status/2123041616688820509",
+    "maker": "ery_treasure",
+    "category": "film",
+    "seconds": 90,
+    "postedAt": "2026-11-18",
+    "title": "Summer countryside from a frog's eye view, made in Blender",
+    "titleZh": "青蛙视角的夏日乡间，用 Blender 制作",
     "tools": []
   },
   {
@@ -2237,6 +2523,28 @@
     "postedAt": "2026-11-15",
     "title": "A castle on a cliff from about 9,000 lines of Python in Blender",
     "titleZh": "悬崖上的城堡，在 Blender 中用约 9000 行 Python 写成",
+    "tools": []
+  },
+  {
+    "id": "2120224530367119758",
+    "url": "https://x.com/apekshik/status/2120224530367119758",
+    "maker": "apekshik",
+    "category": "scene3d",
+    "seconds": 37,
+    "postedAt": "2026-11-10",
+    "title": "A procedurally rigged arm that grabs a ball",
+    "titleZh": "程序化绑定的手臂，能伸手抓住小球",
+    "tools": []
+  },
+  {
+    "id": "2124612292490752267",
+    "url": "https://x.com/vib3coded/status/2124612292490752267",
+    "maker": "vib3coded",
+    "category": "compare",
+    "seconds": 17,
+    "postedAt": "2026-11-22",
+    "title": "A koi pond: GPT-6.2 Astra (28 min, $8.71) vs Fable 5.2 (16 min, $12.44)",
+    "titleZh": "锦鲤池：GPT-6.2 Astra（28 分钟，8.71 美元）对比 Fable 5.2（16 分钟，12.44 美元）",
     "tools": []
   },
   {
@@ -2262,6 +2570,50 @@
     "tools": []
   },
   {
+    "id": "2119943813028548721",
+    "url": "https://x.com/mgrczyk/status/2119943813028548721",
+    "maker": "mgrczyk",
+    "category": "film",
+    "seconds": 21,
+    "postedAt": "2026-11-10",
+    "title": "A bird at sunrise, painted stroke by stroke with no undo",
+    "titleZh": "一笔一笔画出日出时的鸟，无法撤销或修改",
+    "tools": []
+  },
+  {
+    "id": "2124488567628149034",
+    "url": "https://x.com/diegocabezas01/status/2124488567628149034",
+    "maker": "diegocabezas01",
+    "category": "film",
+    "seconds": 38,
+    "postedAt": "2026-11-22",
+    "title": "A wildfire on a hillside at night, from Fable 5.2 Max",
+    "titleZh": "夜晚山坡上的野火，Fable 5.2 Max 生成",
+    "tools": []
+  },
+  {
+    "id": "2124022052554453137",
+    "url": "https://x.com/pradeepXkapoor/status/2124022052554453137",
+    "maker": "pradeepXkapoor",
+    "category": "motion",
+    "seconds": 58,
+    "postedAt": "2026-11-21",
+    "title": "A hand-drawn tile world of famous landmarks that builds itself",
+    "titleZh": "手绘风的地标拼块世界，自己一块块搭起来",
+    "tools": []
+  },
+  {
+    "id": "2124960426454905138",
+    "url": "https://x.com/danjan_design/status/2124960426454905138",
+    "maker": "danjan_design",
+    "category": "scene3d",
+    "seconds": 14,
+    "postedAt": "2026-11-23",
+    "title": "A snowy mountain lodge where snow turns into a blizzard",
+    "titleZh": "雪山小屋，小雪渐渐变成暴风雪",
+    "tools": []
+  },
+  {
     "id": "2120674046983720973",
     "url": "https://x.com/ZryMiller/status/2120674046983720973",
     "maker": "ZryMiller",
@@ -2270,6 +2622,17 @@
     "postedAt": "2026-11-12",
     "title": "Opus 4.6 vs Fable 5.2, released 278 days apart",
     "titleZh": "Opus 4.6 对比 Fable 5.2，发布相隔 278 天",
+    "tools": []
+  },
+  {
+    "id": "2123169526619758996",
+    "url": "https://x.com/IndependentEco/status/2123169526619758996",
+    "maker": "IndependentEco",
+    "category": "compare",
+    "seconds": 80,
+    "postedAt": "2026-11-18",
+    "title": "A 30-minute run on the same 3D battlefield, with speed and cost: Fable 5.2 vs Gemini 4 Neon",
+    "titleZh": "同一个 3D 战场各跑 30 分钟，附速度与花费：Fable 5.2 对比 Gemini 4 Neon",
     "tools": []
   },
   {
@@ -2306,17 +2669,6 @@
     "tools": []
   },
   {
-    "id": "2119943813028548721",
-    "url": "https://x.com/mgrczyk/status/2119943813028548721",
-    "maker": "mgrczyk",
-    "category": "film",
-    "seconds": 21,
-    "postedAt": "2026-11-10",
-    "title": "A bird at sunrise, painted stroke by stroke with no undo",
-    "titleZh": "一笔一笔画出日出时的鸟，无法撤销或修改",
-    "tools": []
-  },
-  {
     "id": "2120331599283954137",
     "url": "https://x.com/venturetwins/status/2120331599283954137",
     "maker": "venturetwins",
@@ -2339,17 +2691,6 @@
     "tools": []
   },
   {
-    "id": "2120281700991463448",
-    "url": "https://x.com/dom_scholz/status/2120281700991463448",
-    "maker": "dom_scholz",
-    "category": "compare",
-    "seconds": 30,
-    "postedAt": "2026-11-10",
-    "title": "Fable 5.2 and Opus 5.5 on the same task, with more time",
-    "titleZh": "同一任务对比 Fable 5.2 与 Opus 5.5，给了 Fable 更多时间",
-    "tools": []
-  },
-  {
     "id": "2120007830065614926",
     "url": "https://x.com/higgsfield_ai/status/2120007830065614926",
     "maker": "higgsfield_ai",
@@ -2361,6 +2702,17 @@
     "tools": [
       "Blender"
     ]
+  },
+  {
+    "id": "2120281700991463448",
+    "url": "https://x.com/dom_scholz/status/2120281700991463448",
+    "maker": "dom_scholz",
+    "category": "compare",
+    "seconds": 30,
+    "postedAt": "2026-11-10",
+    "title": "Fable 5.2 and Opus 5.5 on the same task, with more time",
+    "titleZh": "同一任务对比 Fable 5.2 与 Opus 5.5，给了 Fable 更多时间",
+    "tools": []
   },
   {
     "id": "2119919466163093768",
@@ -2398,18 +2750,6 @@
     "tools": []
   },
   {
-    "id": "2119885430627913784",
-    "url": "https://x.com/other__reality/status/2119885430627913784",
-    "maker": "other__reality",
-    "category": "motion",
-    "seconds": 26,
-    "postedAt": "2026-11-09",
-    "title": "Clawd builds and releases a new Claude model",
-    "titleZh": "Clawd 打造并发布新 Claude 模型的动画",
-    "tools": [],
-    "prompt": "Create an animated video of clawd creating and releasing Claude Fable 5.2"
-  },
-  {
     "id": "2120090542419984686",
     "url": "https://x.com/devteamdrew/status/2120090542419984686",
     "maker": "devteamdrew",
@@ -2432,6 +2772,17 @@
     "tools": []
   },
   {
+    "id": "2119951060752375827",
+    "url": "https://x.com/vib3coded/status/2119951060752375827",
+    "maker": "vib3coded",
+    "category": "compare",
+    "seconds": 18,
+    "postedAt": "2026-11-10",
+    "title": "Jelly orca: Fable 5.2 vs Opus 5.5",
+    "titleZh": "果冻虎鲸：Fable 5.2 对比 Opus 5.5",
+    "tools": []
+  },
+  {
     "id": "2119910344998912507",
     "url": "https://x.com/higgsfield_ai/status/2119910344998912507",
     "maker": "higgsfield_ai",
@@ -2444,17 +2795,6 @@
       "three.js",
       "Higgsfield"
     ]
-  },
-  {
-    "id": "2119951060752375827",
-    "url": "https://x.com/vib3coded/status/2119951060752375827",
-    "maker": "vib3coded",
-    "category": "compare",
-    "seconds": 18,
-    "postedAt": "2026-11-10",
-    "title": "Jelly orca: Fable 5.2 vs Opus 5.5",
-    "titleZh": "果冻虎鲸：Fable 5.2 对比 Opus 5.5",
-    "tools": []
   },
   {
     "id": "2119901747930186234",
@@ -2519,17 +2859,6 @@
     ]
   },
   {
-    "id": "2119892208937517201",
-    "url": "https://x.com/dfeinition/status/2119892208937517201",
-    "maker": "dfeinition",
-    "category": "film",
-    "seconds": 20,
-    "postedAt": "2026-11-09",
-    "title": "A claymation-style short",
-    "titleZh": "一段黏土动画风格的短片",
-    "tools": []
-  },
-  {
     "id": "2119945841997672698",
     "url": "https://x.com/kickingkeys/status/2119945841997672698",
     "maker": "kickingkeys",
@@ -2556,6 +2885,17 @@
     "promptUrl": "https://x.com/theoardley/status/2120124748159996152"
   },
   {
+    "id": "2119892208937517201",
+    "url": "https://x.com/dfeinition/status/2119892208937517201",
+    "maker": "dfeinition",
+    "category": "film",
+    "seconds": 20,
+    "postedAt": "2026-11-09",
+    "title": "A claymation-style short",
+    "titleZh": "一段黏土动画风格的短片",
+    "tools": []
+  },
+  {
     "id": "2120040640423850168",
     "url": "https://x.com/wangray/status/2120040640423850168",
     "maker": "wangray",
@@ -2579,17 +2919,6 @@
     "tools": []
   },
   {
-    "id": "2120007187808534965",
-    "url": "https://x.com/karminski3/status/2120007187808534965",
-    "maker": "karminski3",
-    "category": "compare",
-    "seconds": 60,
-    "postedAt": "2026-11-10",
-    "title": "The same demo from DeepSeek V4.1 Flash and Fable 5.2",
-    "titleZh": "同一个 demo：DeepSeek V4.1 Flash 对比 Fable 5.2",
-    "tools": []
-  },
-  {
     "id": "2119915123070644263",
     "url": "https://x.com/anstapnever/status/2119915123070644263",
     "maker": "anstapnever",
@@ -2598,6 +2927,17 @@
     "postedAt": "2026-11-09",
     "title": "A 79-second anime short",
     "titleZh": "一部 79 秒的日式动画短片",
+    "tools": []
+  },
+  {
+    "id": "2120007187808534965",
+    "url": "https://x.com/karminski3/status/2120007187808534965",
+    "maker": "karminski3",
+    "category": "compare",
+    "seconds": 60,
+    "postedAt": "2026-11-10",
+    "title": "The same demo from DeepSeek V4.1 Flash and Fable 5.2",
+    "titleZh": "同一个 demo：DeepSeek V4.1 Flash 对比 Fable 5.2",
     "tools": []
   },
   {
@@ -2612,6 +2952,19 @@
     "tools": [
       "three.js",
       "Claude Code"
+    ]
+  },
+  {
+    "id": "2119941967136379334",
+    "url": "https://x.com/konstantinsaifo/status/2119941967136379334",
+    "maker": "konstantinsaifo",
+    "category": "explainer",
+    "seconds": 36,
+    "postedAt": "2026-11-09",
+    "title": "How a nuclear reactor works: a take-apart three.js model",
+    "titleZh": "核反应堆如何工作：可拆解的 three.js 模型",
+    "tools": [
+      "three.js"
     ]
   },
   {
@@ -2637,16 +2990,16 @@
     "tools": []
   },
   {
-    "id": "2119941967136379334",
-    "url": "https://x.com/konstantinsaifo/status/2119941967136379334",
-    "maker": "konstantinsaifo",
-    "category": "explainer",
-    "seconds": 36,
-    "postedAt": "2026-11-09",
-    "title": "How a nuclear reactor works: a take-apart three.js model",
-    "titleZh": "核反应堆如何工作：可拆解的 three.js 模型",
+    "id": "2120094263673319609",
+    "url": "https://x.com/slimer48484/status/2120094263673319609",
+    "maker": "slimer48484",
+    "category": "motion",
+    "seconds": 30,
+    "postedAt": "2026-11-10",
+    "title": "A painting made in Python, shown stroke by stroke",
+    "titleZh": "用 Python 画的一幅画，逐笔呈现",
     "tools": [
-      "three.js"
+      "Python"
     ]
   },
   {
@@ -2659,19 +3012,6 @@
     "title": "A motion graphic explaining how LLMs work",
     "titleZh": "讲解 LLM 工作原理的动态图形",
     "tools": []
-  },
-  {
-    "id": "2120094263673319609",
-    "url": "https://x.com/slimer48484/status/2120094263673319609",
-    "maker": "slimer48484",
-    "category": "motion",
-    "seconds": 30,
-    "postedAt": "2026-11-10",
-    "title": "A painting made in Python, shown stroke by stroke",
-    "titleZh": "用 Python 画的一幅画，逐笔呈现",
-    "tools": [
-      "Python"
-    ]
   },
   {
     "id": "2120248774861689199",
